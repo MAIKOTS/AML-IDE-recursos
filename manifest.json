@@ -5,20 +5,20 @@
     {
       "id": "sysroot",
       "nome": "Sysroot",
-      "descricao": "Headers C/C++ e bibliotecas (ARM64 + ARM32)",
-      "url": "https://github.com/MaikoTS/aml-ide-recursos/releases/download/v1.0/sysroot.zip",
-      "tamanho_bytes": 125000000,
-      "sha256": "COLE_O_HASH_AQUI",
+      "descricao": "Headers C/C++ e bibliotecas ARM64 + ARM32",
+      "url": "https://github.com/MAIKOTS/aml-ide-recursos/releases/download/v1.00/sysroot.zip",
+      "tamanho_bytes": 0,
+      "sha256": "",
       "destino": "sysroot",
       "obrigatorio": true
     },
     {
-      "id": "lib",
-      "nome": "Bibliotecas de runtime",
-      "descricao": "clang-runtime + libxml2",
-      "url": "https://github.com/MaikoTS/aml-ide-recursos/releases/download/v1.0/lib.zip",
-      "tamanho_bytes": 30000000,
-      "sha256": "COLE_O_HASH_AQUI",
+      "id": "libs",
+      "nome": "Runtime",
+      "descricao": "clang-runtime e libxml2",
+      "url": "https://github.com/MAIKOTS/aml-ide-recursos/releases/download/v1.00/libs.zip",
+      "tamanho_bytes": 0,
+      "sha256": "",
       "destino": "lib",
       "obrigatorio": true
     }
