@@ -21,7 +21,7 @@
       "sha256": "f360e458c6835428d423b96d72c2c2dbedc458c3602571915c3c219f36c12f08",
       "destino": "lib",
       "obrigatorio": true
-    }
+    },
     {
       "id": "aml_psdk",
       "nome": "AML Plugin SDK",
