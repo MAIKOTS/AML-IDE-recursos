@@ -1,2 +1,4 @@
 # aml-ide-recursos
-#### Recursos essenciais para o funcionamento da AML-IDE
+* Recursos essenciais para o funcionamento da AML-IDE
+* o usuário tem a escolha de baixar direto da IDE, assim o apk não fica enorme e o usuário só instala o que vai precisar.
+* confira o repositório: [MAIKOTS/Aml-IDE](https://github.com/MAIKOTS/AML_IDE-Android)
