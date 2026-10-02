@@ -23,7 +23,7 @@
       "obrigatorio": true
     }
     {
-      "id": "aml-psdk",
+      "id": "aml_psdk",
       "nome": "AML Plugin SDK",
       "descricao": "SDK oficial pra criar mods AML. Headers + exemplos",
       "url": "https://github.com/MAIKOTS/aml-ide-recursos/releases/download/v1.00/aml-psdk.zip",
@@ -38,7 +38,7 @@
       "descricao": "Utilitários de memória, hooks e patterns (RusJJ)",
       "url": "https://github.com/MAIKOTS/aml-ide-recursos/releases/download/v1.00/modutils.zip",
       "tamanho_bytes": 2097152,
-      "sha256": "COLE_O_HASH",
+      "sha256": "sha256:55ecc4361935d6226ac2fe974051b05f9e64af6d0870c9fcf81092f4027e70d4",
       "destino": "sdk/modutils",
       "obrigatorio": false
     }
